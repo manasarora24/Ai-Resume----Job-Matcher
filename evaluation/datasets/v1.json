@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "source": "synthetic hand-authored examples",
+  "license": "CC0-1.0; generated for this repository",
+  "examples": [
+    {"resume": {"skills": ["python", "sql", "pandas", "data analysis"], "experience": "Built Python data analysis tools and SQL reports."}, "jobs": [{"id": "analyst", "description": "Python SQL pandas data analysis"}, {"id": "frontend", "description": "React javascript css frontend"}], "relevance": {"analyst": 3, "frontend": 0}},
+    {"resume": {"skills": ["react", "typescript", "javascript", "css"], "experience": "Delivered React and TypeScript interfaces."}, "jobs": [{"id": "frontend", "description": "React typescript javascript css"}, {"id": "ml", "description": "python pytorch machine learning"}], "relevance": {"frontend": 3, "ml": 0}},
+    {"resume": {"skills": ["python", "pytorch", "machine learning", "sql"], "experience": "Developed machine learning pipelines with Python and PyTorch."}, "jobs": [{"id": "ml", "description": "Python PyTorch machine learning"}, {"id": "frontend", "description": "React javascript css"}], "relevance": {"ml": 3, "frontend": 0}}
+  ]
+}
